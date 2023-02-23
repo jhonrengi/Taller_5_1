@@ -1,5 +1,8 @@
 # Taller_5_1
 
+En primera medida, lo que s ebusca es realizar las funciones necesarias para crear un nuevo repositorio y asu vez, poder subir los archivos del taller que se busca desarrollar.
+
+
 En este taller se busca hacer uso de la funciones en Pseint para luego hacer uso del git.
 
 Primero que todo, se desea realizar el siguiente taller:
